@@ -1,0 +1,17 @@
+body{
+    font-family:'Franklin Gothic Medium';
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+
+.h13{
+    align-content: center;
+    justify-content: center;
+}
+.flex23{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.early231{
+    color: white;
+}
